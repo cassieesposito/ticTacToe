@@ -1,0 +1,1 @@
+A dear friend of mine posted a puzzle: how many possible games of tic tac toe are there? I figured there are probably mathematical ways of calculating them, but why not just count them? I took the opportunity to play around with recursion in python.
